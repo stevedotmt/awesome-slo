@@ -61,3 +61,4 @@
 - [slo-generator](https://github.com/google/slo-generator)
 - [pyrra](https://github.com/pyrra-dev/pyrra)
 - [Service Level Calculator](https://slc.alexewerlof.com/)
+- [SLO Error Budget Calculator](https://opshubs.space/tools/slo-error-budget-calculator/)
